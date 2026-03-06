@@ -18,4 +18,16 @@ a blind75 leetcode list, solved both by js and java
 | [0595-big-countries](https://github.com/lei-xue/blind75-leetcode/tree/main/LeetCode/Easy/0595-big-countries/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/lei-xue/blind75-leetcode/tree/main/LeetCode/Easy/0596-classes-with-at-least-5-students/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/lei-xue/blind75-leetcode/tree/main/LeetCode/Easy/1757-recyclable-and-low-fat-products/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/lei-xue/blind75-leetcode/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/lei-xue/blind75-leetcode/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/lei-xue/blind75-leetcode/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
