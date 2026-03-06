@@ -12,6 +12,7 @@ a blind75 leetcode list, solved both by js and java
 | [0180-consecutive-numbers](https://github.com/lei-xue/blind75-leetcode/tree/main/LeetCode/Medium/0180-consecutive-numbers/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/lei-xue/blind75-leetcode/tree/main/LeetCode/Easy/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0183-customers-who-never-order](https://github.com/lei-xue/Blind75-Leetcode/tree/main/LeetCode/Easy/0183-customers-who-never-order/) | Easy |
+| [0184-department-highest-salary](https://github.com/lei-xue/blind75-leetcode/tree/main/LeetCode/Medium/0184-department-highest-salary/) | Medium |
 | [0196-delete-duplicate-emails](https://github.com/lei-xue/blind75-leetcode/tree/main/LeetCode/Easy/0196-delete-duplicate-emails/) | Easy |
 | [0584-find-customer-referee](https://github.com/lei-xue/Blind75-Leetcode/tree/main/LeetCode/Easy/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/lei-xue/blind75-leetcode/tree/main/LeetCode/Easy/0595-big-countries/) | Easy |
