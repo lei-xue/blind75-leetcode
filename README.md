@@ -16,5 +16,6 @@ a blind75 leetcode list, solved both by js and java
 | [0196-delete-duplicate-emails](https://github.com/lei-xue/blind75-leetcode/tree/main/LeetCode/Easy/0196-delete-duplicate-emails/) | Easy |
 | [0584-find-customer-referee](https://github.com/lei-xue/Blind75-Leetcode/tree/main/LeetCode/Easy/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/lei-xue/blind75-leetcode/tree/main/LeetCode/Easy/0595-big-countries/) | Easy |
+| [0596-classes-with-at-least-5-students](https://github.com/lei-xue/blind75-leetcode/tree/main/LeetCode/Easy/0596-classes-with-at-least-5-students/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/lei-xue/blind75-leetcode/tree/main/LeetCode/Easy/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
