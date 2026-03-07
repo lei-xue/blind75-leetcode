@@ -23,11 +23,13 @@ a blind75 leetcode list, solved both by js and java
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lei-xue/blind75-leetcode/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/lei-xue/blind75-leetcode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
+| [0139-word-break](https://github.com/lei-xue/blind75-leetcode/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lei-xue/blind75-leetcode/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/lei-xue/blind75-leetcode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
+| [0139-word-break](https://github.com/lei-xue/blind75-leetcode/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -36,8 +38,21 @@ a blind75 leetcode list, solved both by js and java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/lei-xue/blind75-leetcode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
+| [0139-word-break](https://github.com/lei-xue/blind75-leetcode/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/lei-xue/blind75-leetcode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/lei-xue/blind75-leetcode/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/lei-xue/blind75-leetcode/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/lei-xue/blind75-leetcode/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->
