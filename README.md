@@ -22,12 +22,22 @@ a blind75 leetcode list, solved both by js and java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lei-xue/blind75-leetcode/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0049-group-anagrams](https://github.com/lei-xue/blind75-leetcode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lei-xue/blind75-leetcode/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0049-group-anagrams](https://github.com/lei-xue/blind75-leetcode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lei-xue/blind75-leetcode/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0049-group-anagrams](https://github.com/lei-xue/blind75-leetcode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0049-group-anagrams](https://github.com/lei-xue/blind75-leetcode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 <!---LeetCode Topics End-->
