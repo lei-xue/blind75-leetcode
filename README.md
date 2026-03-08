@@ -23,6 +23,7 @@ a blind75 leetcode list, solved both by js and java
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lei-xue/blind75-leetcode/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/lei-xue/blind75-leetcode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/lei-xue/Blind75-Leetcode/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0139-word-break](https://github.com/lei-xue/blind75-leetcode/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/lei-xue/Blind75-Leetcode/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 ## String
@@ -41,6 +42,7 @@ a blind75 leetcode list, solved both by js and java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/lei-xue/blind75-leetcode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/lei-xue/Blind75-Leetcode/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0139-word-break](https://github.com/lei-xue/blind75-leetcode/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -58,4 +60,8 @@ a blind75 leetcode list, solved both by js and java
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/lei-xue/blind75-leetcode/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/lei-xue/Blind75-Leetcode/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
 <!---LeetCode Topics End-->
